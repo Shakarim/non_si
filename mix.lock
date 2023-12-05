@@ -1,0 +1,3 @@
+%{
+  "si": {:hex, :si, "1.0.0", "afcab349e03c26b1e446c065e5058bfdea50ac99f77bfd0071ff88499ce60b65", [:mix], [], "hexpm", "65401ad0d1bd08d29ed6715a70cf37a029ad67eb63129b86db510ad3eb3e5381"},
+}
